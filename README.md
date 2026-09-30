@@ -2,9 +2,9 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/BiliXWhite/litematica-printer)
 ![GitHub release](https://img.shields.io/github/v/release/BiliXWhite/litematica-printer)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.18.2%20~%2026.2-blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.18.2%20~%2026.3-blue)
 
-为 [Litematica](https://modrinth.com/mod/litematica) 投影添加自动建造功能的 Minecraft Fabric 模组。支持 1.18.2 ~ 26.2 版本。
+为 [Litematica](https://modrinth.com/mod/litematica) 投影添加自动建造功能的 Minecraft Fabric 模组。支持 1.18.2 ~ 26.3 版本。
 
 该分支基于[宅咸鱼二改版](https://github.com/zhaixianyu/litematica-printer)修改，添加了更多实用功能。
 
@@ -29,7 +29,7 @@
 | 版本支持                                                |
 |-----------------------------------------------------|
 | 1.18.2 · 1.19.4 · 1.20.1 · 1.20.2 · 1.20.4 · 1.20.6 |
-| 1.21.1 ~ 1.21.11 · 26.1 · 26.2                      |
+| 1.21.1 ~ 1.21.11 · 26.1 · 26.2 · 26.3               |
 
 > [!NOTE]
 > 1.18.2 以下版本暂不接受更新，小版本是否可用请自行尝试
